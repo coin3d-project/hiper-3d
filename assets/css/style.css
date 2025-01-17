@@ -70,6 +70,9 @@ h6 {
 # Back to top button
 --------------------------------------------------------------*/
 
+.my_section{
+    padding: 60px 0 30px 0;
+}
 .back-to-top {
     position: fixed;
     visibility: hidden;
@@ -1516,7 +1519,7 @@ h6 {
     #contact .contact-address,
     #contact .contact-phone,
     #contact .contact-email {
-        padding: 20px 0;
+        padding: 0px 0;
     }
 }
 
