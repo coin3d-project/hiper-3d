@@ -49,6 +49,50 @@ h6 {
     color: #0e1b4d;
 }
 
+.session {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+}
+
+.session-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #0e1b4d;
+  margin-bottom: 1.5rem;
+}
+
+.session-time {
+  font-size: 1.2rem;
+  color: #666;
+  font-weight: normal;
+}
+
+.paper {
+  margin-bottom: 1.8rem;
+  border-left: 3px solid #2e5aa7;
+  padding-left: 1rem;
+}
+
+.paper-time {
+  font-weight: 600;
+  color: #2e5aa7;
+  margin-bottom: 0.2rem;
+}
+
+.paper-title {
+  font-style: italic;
+  font-size: 1.05rem;
+  margin-bottom: 0.3rem;
+}
+
+.paper-authors {
+  color: #333;
+  font-size: 0.95rem;
+}
+
 .main-page {
     margin-top: 70px;
 }
